@@ -1,0 +1,18 @@
+{
+  "name": "webdev_ffxiv_project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CSCI 39548 - Web Development Final Project utilizing the Final Fantasy XIV API from the Public API list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AI",
+  "license": "ISC",
+  "dependencies": {
+    "@xivapi/js": "^0.4.5",
+    "axios": "^1.6.8",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
